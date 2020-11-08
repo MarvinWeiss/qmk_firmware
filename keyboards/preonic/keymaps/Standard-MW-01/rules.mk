@@ -1,0 +1,3 @@
+SRC += muse.c
+RGBLIGHT_ENABLE = no
+DIP_SWITCH_ENABLE=no
